@@ -1,0 +1,3 @@
+# JavaExercices
+
+labs and practics
