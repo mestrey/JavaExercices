@@ -1,5 +1,5 @@
 # JavaExercices
 
-[![Maintainability Rating](https://api.travis-ci.com/mestrey/JavaExercices.svg?branch=master)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=mestrey_JavaExercices&metric=sqale_rating)
 
 labs and practics
