@@ -1,0 +1,10 @@
+language: java
+jdk:	
+  - openjdk11
+addons:
+  sonarcloud:
+    organization: "my-organization"
+    token:
+      secure: $SONAR_TOKEN                
+script:
+  - mvn clean verify sonar:sonar
